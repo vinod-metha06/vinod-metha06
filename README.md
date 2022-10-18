@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinod Metha
-- 👨‍🎓️ Student at KLE Dr M S Sheshgiri college of Engineering and Technology 
+- 👨‍💻 Software developer
 - 👀 I’m interested in Flutter and Python
 - 🌱 I’m currently learning AI
 
