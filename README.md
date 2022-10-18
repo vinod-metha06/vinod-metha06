@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinod Metha
 - 👨‍💻 Software developer
-- 👀 I’m interested in Flutter and Python
+- 👀 I’m interested in Flutter and React
 - 🌱 I’m currently learning AI
 
 
